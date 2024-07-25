@@ -1,0 +1,62 @@
+body 
+{
+margin-bottom : 0px;
+margin-left : 0px;
+margin-right : 0px;
+margin-top : 0px;
+background-color : #FFFFFF;
+padding-top : 0px;
+padding-bottom : 0px;
+padding-left : 0px;
+padding-right : 0px;
+}
+.topnav	     	{padding:3px 0px 4px 13px; color: #ffffff; background-color: #3399cc; font-size: 12px; font-family: Arial, Helvetica, sans-serif; font-weight:bold; text-decoration: none}
+.topnav01		{padding:2px 0px 1px 4px; color: #000000; background-color: #fea620; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.topnav02		{padding:2px 0px 1px 4px; color: #ffffff; background-color: #014E82; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.leftnav		{padding:8px 0px 6px 8px; color: #000000; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.leftnav01		{padding:9px 0px 0px 0px}
+.leftnav02		{padding:4px 0px 0px 0px}
+.leftnav03		{padding:0px 0px 6px 8px; color: #000000; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.leftnav04		{padding:3px 0px 1px 8px; color: #000000; background-color: #fea620; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.leftnav05		{padding:3px 0px 1px 8px; color: #ffffff; background-color: #014E82; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.centernav		{padding:8px 0px 6px 6px; color: #000000; background-color: #ffffff; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.centernav01	{color: #fea620; background-color: #ffffff; font-size: 11px; font-family: Arial, Helvetica, sans-serif; font-weight:bold; text-decoration: none}
+.centernav02	{padding:8px 0px 6px 6px; color: #ffffff; background-color: #014e82; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.centernav03	{padding:8px 0px 6px 10px; color: #014e82; background-color: #ffffff; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.centernav04	{padding:8px 8px 0px 10px; color: #fea620; background-color: #ffffff; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.centernav05	{padding:8px 6px 6px 6px; color: #000000; background-color: #ffffff; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.rightnav		{padding:8px 10px 6px 14px; color: #003399; font-size: 12px; font-family: Arial, Helvetica, sans-serif; font-weight:bold; text-decoration: none}
+.rightnav01		{padding:8px 10px 6px 14px; color: #003399; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.rightnav02		{padding:8px 10px 6px 14px; color: #fea620; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.rightnav03		{padding:8px 10px 6px 14px; color: #ffffff; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.bottomnav  	{padding:3px 0px 4px 0px; color: #ffffff; background-color: #3399cc; font-size: 10px; font-family: Arial, Helvetica, sans-serif; font-weight:bold; text-decoration: none}
+.breadcrumb 	{padding:5px 0px 7px 13px; color: #5bacd6; background-color: #d3e6f5; font-size: 10px; font-family: Arial, Helvetica, sans-serif; font-weight:bold; text-decoration: none}
+.bgffffff   	{background-color: #ffffff; text-decoration: none}
+.bg3399cc   	{background-color: #3399cc; text-decoration: none}
+.bgd3e6f5   	{background-color: #d3e6f5; text-decoration: none}
+.bgfea620   	{background-color: #fea620; text-decoration: none}
+.bg014e82   	{background-color: #014e82; text-decoration: none}
+
+/* fundamental link style */
+a {text-decoration:none}
+a:visited {color:#000000}
+a:link {color:#000000}
+a:hover {text-decoration:underline}
+
+A.a1  {text-decoration:none}
+A.a1:visited {color:#ffffff; text-decoration:none}
+A.a1:link    {color:#ffffff; text-decoration:none}
+A.a1:hover   {text-decoration:underline}
+
+A.a2  {text-decoration:none}
+A.a2:visited {color:#5bacd6; text-decoration:none}
+A.a2:link    {color:#5bacd6; text-decoration:none}
+A.a2:hover   {text-decoration:underline}
+
+A.a3  {text-decoration:none}
+A.a3:visited {color:#000000; text-decoration:none}
+A.a3:link    {color:#000000; text-decoration:none}
+A.a3:hover   {color:#000000; text-decoration:underline}
+
+ul li{list-style-type:square;list-style-image:url("/css/ic_bullet.gif");margin:0px 0px 0px 0px;padding:0px}
+form{padding:0px;margin:0px;display:inline}

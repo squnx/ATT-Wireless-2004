@@ -1,0 +1,66 @@
+body 
+{
+margin-bottom : 0px;
+margin-left : 0px;
+margin-right : 0px;
+margin-top : 0px;
+background-color : #FFFFFF;
+padding-top : 0px;
+padding-bottom : 0px;
+padding-left : 0px;
+padding-right : 0px;
+}
+.topnav	     	{padding:3px 0px 4px 13px; color: #ffffff; background-color: #3399cc; font-size: 12px; font-family: Arial, Helvetica, sans-serif; font-weight:bold; text-decoration: none}
+.leftnav		{padding:8px 0px 6px 8px; color: #000000; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.leftnav01		{padding:9px 0px 0px 0px}
+.leftnav02		{padding:4px 0px 0px 0px}
+.leftnav03		{padding:0px 0px 6px 8px; color: #000000; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.leftnav04		{padding:3px 0px 0px 8px; color: #000000; background-color: #fea620; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.bottomnav  	{padding:3px 0px 4px 0px; color: #ffffff; background-color: #3399cc; font-size: 10px; font-family: Arial, Helvetica, sans-serif; font-weight:bold; text-decoration: none}
+.breadcrumb 	{padding:5px 0px 7px 13px; color: #5bacd6; background-color: #d3e6f5; font-size: 10px; font-family: Arial, Helvetica, sans-serif; font-weight:bold; text-decoration: none}
+.bgffffff   	{background-color: #ffffff; text-decoration: none}
+.bg3399cc   	{background-color: #3399cc; text-decoration: none}
+.bgd3e6f5   	{background-color: #d3e6f5; text-decoration: none}
+.bgfea620   	{background-color: #fea620; text-decoration: none}
+
+/* fundamental link style */
+a {text-decoration:none}
+a:visited {color:#000000}
+a:link {color:#000000}
+a:hover {text-decoration:underline}
+
+A.a1  {text-decoration:none}
+A.a1:visited {color:#ffffff; text-decoration:none}
+A.a1:link    {color:#ffffff; text-decoration:none}
+A.a1:hover   {text-decoration:underline}
+
+A.a2  {text-decoration:none}
+A.a2:visited {color:#5bacd6; text-decoration:none}
+A.a2:link    {color:#5bacd6; text-decoration:none}
+A.a2:hover   {text-decoration:underline}
+
+ul li{list-style-type:square;list-style-image:url("/css/ic_bullet.gif");margin:0px 0px 0px 0px;padding:0px}
+form{padding:0px;margin:0px;display:inline}
+
+.sectiontitle	{ position:absolute; left:25px; top:134px; width:228px; height:16px; z-index:4;}
+.login       	{ position:absolute; left:506px; top:265px; width:189px; height:178px; z-index:3;}
+.introduction 	{ position:absolute; left:66; top:197; width:364px; height:211px; z-index:1; background-color: #ffffff;}
+.information 	{ position:absolute; left:66; top:197; width:364px; height:211px; z-index:1; background-color: #ffffff;}
+.rightnav    	{ position:absolute; left:506px; top:252px; width:189px; height:178px; z-index:3;}
+.txt11666666 	{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #666666;}
+.mai2txt 		{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 20px; color: #666666;}
+.txt11333333 	{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #333333;}
+.txt11ffffff 	{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #ffffff;}
+.txt11cc6666 	{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #cc6666;}
+.txt116666CC 	{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #6666CC;}
+.txt126666CC 	{ font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #6666CC;}
+.txt12666666 	{ font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #666666;}
+.txt12666666ext { font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; color: #666666;}
+.txt12cc6600 	{ font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #cc6600;}
+.notetxt 		{ font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: 12px; color: #666666;}
+.copyr 			{ font-family: Arial, Helvetica, sans-serif; font-size: 09px; line-height: 09px; color: #ffffcc;}
+.retry			{ font-family: Arial, Helvetica, sans-serif; font-size: 09px; line-height: 09px; color: #993300;}
+.for2txt 		{ font-family: "arial";	font-size: 12px; font-weight: bold; color: #000000; background-color: #FFFFFF; border-color : #CC6600; border-width : 1px; }
+.sendBtn 		{ font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #FFFFFF; background-color: #CC6600; border-color: #CC9933; border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px;}
+.smField 		{ font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #000000; border: 1px #CC6600 solid; background-color: #CCCCCC; width: 200px; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px}
+.lgField 		{ font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; border: 1px #CC6600 solid; background-color: #CCCCCC; width: 250px; height: 75px; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px}
